@@ -60,7 +60,6 @@ supplementary/
 ├── assets/            # Additional resources
 │   └── workflow_sdxl_turbo.json  # ComfyUI workflow file (https://github.com/comfyanonymous/ComfyUI)
 │
-├── latent_clip/       # Core code for Latent CLIP
 ├── Latent_ReNO/       # Implementation for reward-based noise optimization
 ├── environment.yml    # Conda environment setup file
 ├── helper.py          # Utility functions for supporting the notebook
