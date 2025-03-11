@@ -1,0 +1,100 @@
+a car
+an apple
+an eagle
+a tree
+a house
+a book
+a cup
+a table
+a chair
+a lamp
+a mountain
+a river
+a beach
+a boat
+a fish
+a bird
+a dog
+a cat
+a horse
+a cow
+a bus
+a train
+a plane
+a truck
+a bicycle
+a road
+a bridge
+a door
+a window
+a clock
+a phone
+a laptop
+a pen
+a pencil
+a notebook
+a backpack
+a hat
+a shoe
+a sock
+a jacket
+a treehouse
+a fireplace
+a television
+a fridge
+a washing machine
+a mirror
+a spoon
+a fork
+a knife
+a plate
+a ball
+a doll
+a toy car
+a teddy bear
+a robot
+a kite
+a drum
+a guitar
+a violin
+a piano
+a road sign
+a mailbox
+a stoplight
+a park bench
+a street lamp
+a tent
+a campfire
+a sleeping bag
+a suitcase
+a globe
+a firetruck
+a police car
+an ambulance
+a tractor
+a windmill
+a sunflower
+a rose
+a lily
+a tree branch
+a pinecone
+a teapot
+a frying pan
+a cutting board
+a whisk
+a rolling pin
+a hamburger
+a pizza
+a hotdog
+a sandwich
+a donut
+a glass of water
+a milk carton
+a juice box
+a cereal bowl
+a cake
+a hammer
+a screwdriver
+a wrench
+a saw
+a drill
